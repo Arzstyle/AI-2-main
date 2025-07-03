@@ -1,0 +1,185 @@
+{
+  "common": {
+    "appName": "Plant Reminder",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "remove": "Remove",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "confirm": "Confirm",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "plants": "Plants",
+    "settings": "Settings",
+    "dashboard": "Dashboard"
+  },
+  "welcome": {
+    "title": "Plant Reminder",
+    "subtitle": "Your weather-based plant care assistant",
+    "description": "Get personalized care recommendations for your houseplants based on weather conditions. Never forget to water, prune, or fertilize again!",
+    "getStarted": "Get Started"
+  },
+  "dashboard": {
+    "todaysCare": "Today's Plant Care",
+    "weatherTips": "Weather-Based Tips",
+    "noPlants": "You haven't added any plants yet!",
+    "addPlants": "Add Plants",
+    "allCaredFor": "All your plants are taken care of! 🌱",
+    "checkTomorrow": "Check back tomorrow for new recommendations",
+    "managePlants": "Manage Plants"
+  },
+  "weather": {
+    "sunny": "Sunny Day Plant Care",
+    "rainy": "Rainy Day Plant Care",
+    "cloudy": "Cloudy Day Plant Care",
+    "windy": "Windy Day Plant Care",
+    "clear": "Clear Day Plant Care",
+    "sunnyTip": "On sunny days, monitor soil moisture more frequently as plants may dry out faster. Consider moving sensitive plants away from direct sunlight.",
+    "rainyTip": "Check drainage on potted plants during rainy periods to prevent root rot. Hold off on watering until soil dries out.",
+    "cloudyTip": "Cloudy days are perfect for repotting or transplanting as plants experience less stress without direct sunlight.",
+    "windyTip": "Consider bringing smaller potted plants indoors or providing shelter from strong winds. Check soil moisture as wind can dry plants out.",
+    "clearTip": "Clear days are great for plant maintenance. Check for pests, prune as needed, and ensure adequate watering."
+  },
+  "plants": {
+    "search": "Search plants...",
+    "selected": "plant selected",
+    "selectedPlural": "plants selected",
+    "noResults": "No plants found matching",
+    "addToGarden": "Add to My Garden",
+    "removeFromGarden": "Remove from My Garden",
+    "about": "About",
+    "careRequirements": "Care Requirements",
+    "careInstructions": "Care Instructions",
+    "careHistory": "Care History",
+    "waterNeeds": "Water Needs",
+    "light": "Light",
+    "temperature": "Temperature",
+    "height": "Height",
+    "fertilizer": "Fertilizer",
+    "names": {
+      "rose": "Rose",
+      "sunflower": "Sunflower", 
+      "jasmine": "Jasmine",
+      "peace-lily": "Peace Lily",
+      "snake-plant": "Snake Plant",
+      "aloe-vera": "Aloe Vera",
+      "basil": "Basil",
+      "lavender": "Lavender",
+      "orchid": "Orchid",
+      "fern": "Fern"
+    },
+    "descriptions": {
+      "rose": "A classic flowering plant known for its beautiful blooms and pleasant fragrance.",
+      "sunflower": "Tall annual plants known for their large, bright yellow blooms that follow the sun.",
+      "jasmine": "Climbing vines or shrubs with intensely fragrant white or yellow flowers.",
+      "peace-lily": "Popular indoor plant with elegant white flowers and glossy leaves.",
+      "snake-plant": "Nearly indestructible plant with tall, stiff leaves. Excellent air purifier.",
+      "aloe-vera": "Succulent plant with medicinal properties. Gel from leaves soothes burns and skin irritations.",
+      "basil": "Aromatic herb used in cooking, especially in Italian and Thai cuisines.",
+      "lavender": "Fragrant perennial herb with purple flowers, known for its calming scent.",
+      "orchid": "Elegant flowering plants with exotic blooms, popular as houseplants.",
+      "fern": "Lush green plants that thrive in humid, shaded environments."
+    },
+    "careInstructions": {
+      "rose": "Roses need well-draining soil and regular pruning to encourage blooming. Watch for pests like aphids and blackspot disease.",
+      "sunflower": "Sunflowers are relatively easy to grow. They need support as they grow taller and regular watering until established.",
+      "jasmine": "Jasmine likes humid conditions and consistent moisture. Provide a trellis or support for climbing varieties.",
+      "peace-lily": "Peace lilies prefer humid environments and will droop when thirsty. Keep away from cold drafts and direct sunlight.",
+      "snake-plant": "Allow soil to dry completely between waterings. Can tolerate low light but grows faster in brighter conditions.",
+      "aloe-vera": "Plant in well-draining soil and water only when top inch of soil is dry. Watch for brown spots which may indicate too much sun.",
+      "basil": "Pinch off flower buds to encourage leaf growth. Harvest from the top to promote bushier growth.",
+      "lavender": "Lavender needs excellent drainage. Prune after flowering to maintain shape and promote new growth.",
+      "orchid": "Use orchid bark mix for potting. Water weekly by soaking roots, then drain completely. Provide humidity.",
+      "fern": "Keep soil consistently moist but not waterlogged. Mist regularly to maintain humidity. Avoid direct sunlight."
+    },
+    "fertilizers": {
+      "rose-specific balanced": "Rose-specific balanced fertilizer",
+      "balanced, low-nitrogen": "Balanced, low-nitrogen fertilizer",
+      "balanced, high-phosphorus": "Balanced, high-phosphorus fertilizer",
+      "balanced houseplant": "Balanced houseplant fertilizer",
+      "cactus or succulent": "Cactus or succulent fertilizer",
+      "balanced, organic": "Balanced, organic fertilizer",
+      "low-nitrogen": "Low-nitrogen fertilizer",
+      "orchid-specific": "Orchid-specific fertilizer",
+      "balanced, diluted": "Balanced, diluted fertilizer"
+    },
+    "wateringFrequency": {
+      "low": "Low",
+      "medium": "Medium", 
+      "high": "High"
+    },
+    "lightPreference": {
+      "full sun": "Full Sun",
+      "partial sun": "Partial Sun",
+      "shade": "Shade"
+    }
+  },
+  "settings": {
+    "notifications": {
+      "title": "Notification Settings",
+      "dailyReminders": "Daily Reminders",
+      "description": "Get plant care notifications",
+      "reminderTime": "Reminder Time",
+      "enabled": "Notifications enabled!",
+      "testMessage": "Plant care notifications are now active!"
+    },
+    "appearance": {
+      "title": "Appearance",
+      "darkMode": "Dark Mode",
+      "description": "Toggle dark mode appearance"
+    },
+    "weather": {
+      "title": "Weather Data",
+      "refresh": "Refresh Weather Data",
+      "description": "Update current weather information"
+    },
+    "data": {
+      "title": "App Data",
+      "reset": "Reset App Data",
+      "description": "Clear all plants and settings",
+      "confirmReset": "Reset All Data?",
+      "confirmMessage": "This will remove all your plants and settings. This action cannot be undone."
+    },
+    "about": {
+      "title": "About",
+      "version": "Version"
+    },
+  "weather": {
+    "tipNotAvailable": "Tips are not available for this weather and time.",
+    "sunnyTip": {
+      "pagi": "A sunny morning is great for watering your plants...",
+      "siang": "In the hot midday sun, avoid watering...",
+      "malam": "After a sunny day, plants may be tired..."
+    },
+    "rainyTip": {
+      "pagi": "Rain in the morning makes the soil moist enough...",
+      "siang": "Rain at noon may cause overwatering...",
+      "malam": "Rainy nights can make roots rot..."
+    },
+    "cloudyTip": {
+      "pagi": "A cloudy morning is good for light watering...",
+      "siang": "Cloudy noon might darken the room...",
+      "malam": "Cloudy nights tend to be damp. Clean the leaves..."
+    },
+    "windyTip": {
+      "pagi": "A windy morning may damage young plants...",
+      "siang": "Wind during the day dries the soil top...",
+      "malam": "Windy nights need protection for small plants..."
+    },
+    "clearTip": {
+      "pagi": "Clear mornings are ideal for watering with room temperature water...",
+      "siang": "Avoid watering during bright noon...",
+      "malam": "Clear night is good for pest checking and light care..."
+    }
+  }
+  }
+}
